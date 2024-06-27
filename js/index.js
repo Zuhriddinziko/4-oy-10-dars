@@ -106,20 +106,15 @@
 
 
 // masala 8
-// const person = {
-//         name: 'Vali',
-//         kasbi: `o'qituvchi`,
-//         year: 1993,
-//         yourFrom: 'Uzbekistan',
-//         status: ['uylangan', 'ichmaydi','chekmaydi'],
-//         manzil: 'Uzbekistan Fargana',
-//         telefoni: {nomi:'samsung',
-//                    yili: 2022,
-//                    xotirasi: 256
-    
-//      }
-    
-//     }
+// function Person(name, age ,developer){
+//     this.name=name;
+//     this.age=age;
+//     this.developer=developer;
+// }
+// let Jon=new Person('Jon',22, 'teacher');
+// let Ziko = new Person('Ziko',88, 'memor');
+// console.log(Ziko);
+// console.log(Jon);
  
 
                     //    Umumlashtiruvchi masalalar.
@@ -286,3 +281,13 @@
 
 
 // masala 15
+
+
+// const dog= {name:'dog',
+// age:22,
+// veath:56
+// }
+// for (const key in dog) {
+//   console.log(key);
+//   console.log(dog[key])
+// }
